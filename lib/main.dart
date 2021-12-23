@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'sql_helper.dart';
 
+//Mian method
 void main() {
   runApp(const MyApp());
 }
